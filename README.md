@@ -1,2 +1,2 @@
 # forfun
-my worktun
+my workfun
